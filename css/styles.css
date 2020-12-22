@@ -1,0 +1,132 @@
+body {
+  background-color: #ffffff;
+}
+
+.logo {
+  color: #000000;
+  font-size: 26px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.accent {
+  color: #2196f3;
+}
+
+.site-nav a {
+  color: #212121;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #2196f3;
+}
+
+.contacts a {
+  color: #757575;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.contacts a:hover,
+.contacts a:focus {
+  color: #2196f3;
+}
+
+.hero-title {
+  color: #ffffff;
+  background-color: #000000;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 1.4;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #2196f3;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.8;
+}
+
+.title-features {
+  color: #212121;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.title-services {
+  color: #212121;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.text {
+  color: #757575;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.7;
+}
+
+.team-names {
+  color: #212121;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.team-position {
+  color: #757575;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.contacts-footer a {
+  color: #ffffff;
+  background-color: #000000;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.7;
+}
+
+.filter-button {
+  color: #212121;
+  background-color: #f5f4fa;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+.filter-button:hover,
+.filter-button:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.project-title {
+  color: #212121;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+}
+
+.project-text {
+  color: #757575;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.8;
+}
+
+.list {
+  list-style: none;
+}
